@@ -1,0 +1,6 @@
+{
+  "name": "Jira Context Hub",
+  "description": "A project management tool to submit Jira keys, get project status, and chat with AI about work items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
